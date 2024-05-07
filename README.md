@@ -1,4 +1,7 @@
-### Hi there 👋
+### boas vindas ao meu perfil
+- Meu nome é Thiago Bocardo
+- estou e desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **Xarlote/Xarlote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
